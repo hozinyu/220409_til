@@ -1,0 +1,24 @@
+
+* {text-align: center; box-sizing: border-box;}
+body {background-color: gray;}
+.modal { position: relative; width: 671px; height: 216px; background-color: white;
+border-radius: 4px; margin: 100px;}
+.content {position: absolute; top:32px; left: 4%}
+.modal-title {font-size: 24px; font-weight: 600; margin-top:0px;
+       }
+.modal-content {font-size: 16px; font-weight: 400;
+    
+}
+.modal-input {position: absolute; bottom: 32px; left: 50%;
+transform: translateX(-60%);}
+.modal-input input, button { border-radius: 4px;
+    border: none;}
+
+input {background-color: #F6F8FA; 
+    color:#8492A6; width: 200px; height: 36px;
+    text-align: left; padding-left: 16px;}
+button {background-color: #2860E1; color: white;
+        width: 96px; height: 36px; padding: 8px 13px;}
+
+img { width: 11.7px; height: 11.7px;
+        position: absolute; top:12px; right: 12px;}
