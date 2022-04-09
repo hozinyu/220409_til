@@ -1,0 +1,31 @@
+body {background-color: gainsboro;}
+
+.mailteam { 
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin: 100px auto;
+    width: 580px; height: 120px;
+    background-color: #fff; }
+
+img { margin-bottom: 25px;
+    width: 44px; height: 44px;
+    border-radius: 100%;}
+.content {margin-left: 20px; }
+
+.title {
+    font-size: 16px;
+    font-weight: 600;
+    color:  #1F2D3D;
+    margin:0px auto 4px auto;}
+
+.team-name {
+    font-size: 14px;
+    font-weight: 400;
+    color: #AFB3B9;}
+
+.re-mail {
+    font-size: 16px;
+    font-weight: 400;
+    color:  #79818B;
+    margin-bottom: 0px;}
